@@ -13,3 +13,13 @@ body{
         hsl(55deg 45% 72%) 100%
       );
     }
+    .check{
+      background-color: blue;
+      padding: 7px;
+      border-radius: 6px ;
+    }
+    .delet{
+      background-color: red;
+      padding: 7px;
+      border-radius: 6px ;
+    }
