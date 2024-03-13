@@ -26,6 +26,7 @@ body{
     .formm{
       width: 320px;
     }
-    .form-control{
-      
-    }
+   .taskResult{
+    list-style: none;
+    
+   }
