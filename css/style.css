@@ -28,5 +28,18 @@ body{
     }
    .taskResult{
     list-style: none;
-    
+
+   }
+   .uncompleted{
+    margin: 9px 0;
+    opacity: 0.3;
+   }
+
+   .completed{
+    margin: 9px 0;
+    opacity: 1;
+   }
+   .deleted{
+    display: none;
+    margin: 9px 0;
    }
